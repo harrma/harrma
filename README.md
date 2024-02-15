@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->I added Hrma.txt
+Your name and email address no
+2. A brief description of your Github account it's a free user acount on git hub..you can sign up if you want🤷
+3. A brief description of the repository you created it's a not so usful repository with an empty file creaded for thy lab
+4. A brief description of the steps you took to clone the repository onto your local machine I emailed my teacher to say the instuctions where incacurite so he said to watch how to really do it in class
