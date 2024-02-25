@@ -1,0 +1,42 @@
+Objec�ve
+Your task is to create a valid HTML5 `index.html` file that uses internal style sheets to set the color and
+background color for the `body`, `h1`, and `p` (paragraph) tags. You will write at least three lines of text
+about yourself for the paragraph and choose your own color scheme.
+Step 1: Choose Your Color Palete
+1. Visit [colormind.io](htp://colormind.io/).
+2. Generate a color palete that appeals to you. You will need to choose at least three colors for
+the body background, the heading text, and the paragraph text.
+Step 2: Create the HTML File
+1. Open your text editor and create a new file in your repository folder. Save it as `index.html`.
+2. Write the HTML5 Doctype Declara�on at the top: `<!DOCTYPE html>`
+3. Below the doctype, type the opening and closing HTML tags: `<html>` and `</html>`
+4. Within the HTML tags, create a `head` sec�on with opening and closing tags: `<head>` and
+`</head>`
+5. Within the `head` tags, set the �tle of your webpage by typing: `<�tle>My Personal
+Introduc�on</�tle>`
+Step 3: Create the Style Sheet
+1. S�ll within the `head` tags, create a `style` sec�on with opening and closing tags: `<style>` and
+`</style>`
+2. Within the `style` tags, write CSS rules to set the color and background color for the `body`, `h1`,
+and `p` tags. Replace 'yourcolor' with the color codes you chose from colormind.io. For example:
+For the body:
+body {
+background-color: yourcolor;
+}
+h1 {
+color: yourcolor;
+}
+p {
+color: yourcolor;
+}
+Step 4: Write Your Content
+1. A�er the `head` sec�on, s�ll within the HTML tags, create a `body` sec�on with opening and
+closing tags: `<body>` and `</body>`
+2. Inside the `body` tags, write a heading introducing yourself by typing: `<h1>My name is
+[Your Name]</h1>`
+3. S�ll within the `body` tags, write at least three lines about yourself in paragraph tags. For
+example: `<p>I am a web development student. I enjoy coding and solving problems. In my
+free �me, I like to read books and play video games.</p>`
+Step 5: Save and Review Your Work
+Save your work and open your `index.html` file in a web browser to view your webpage. If
+everything is working correctly, you should see your introduc�on with the color scheme you chose.
