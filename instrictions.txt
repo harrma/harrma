@@ -1,0 +1,22 @@
+Lesson 4 Assignment InstrucƟons
+1. Open your text editor.
+2. Create a new file.
+3. At the top of your new file, type the HTML5 Doctype DeclaraƟon: <!DOCTYPE html>
+4. Below the doctype, type the opening and closing HTML tags: <html> and </html>
+5. Within the HTML tags, create a head secƟon with opening and closing tags: <head> and </head>
+6. Within the head tags, set the Ɵtle of your webpage by typing: <title>Hello World, </title>
+7. AŌer the head secƟon, sƟll within the HTML tags, create a body secƟon with opening and closing
+tags: <body> and </body>
+8. Inside the body tags, write "Hello World! I’m YOUR NAME" by typing: <h1>Hello World, I’m
+YOURNAME</h1>
+9. Save your file with a .html extension, for instance, you could name it hello_world_LASTNAME.html.
+The complete HTML5 file will look like this:
+<!DOCTYPE html>
+<html>
+ <head>
+ <Ɵtle>Hello World</Ɵtle>
+ </head>
+ <body>
+ <h1>Hello World, I’m YOURNAME</h1>
+ </body>
+</html> 
